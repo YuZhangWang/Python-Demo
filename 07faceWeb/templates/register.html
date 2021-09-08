@@ -1,0 +1,47 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% load static %}
+    <link rel="stylesheet" href="{% static "css/bootstrap.css" %}">
+    <link rel="stylesheet" href="{% static "css/bootstrap-grid.css" %}">
+    <link rel="stylesheet" href="{% static "css/bootstrap-reboot.css" %}">
+    <link rel="stylesheet" href="{% static "js/bootstrap.bundle.js" %}">
+    <link rel="stylesheet" href="{% static "js/bootstrap.js" %}">
+    <title>注册</title>
+</head>
+<body>
+  <div>
+      <table class="table table-hover table-bordered table-striped table-active"><tr><td>
+        <div class="h2 text-center text-primary">请输入注册信息</div>
+        <form role="form" action="/register/" method="POST">
+            {% csrf_token %}
+            <div class="text-center">
+                <label for="username" >用户名:</label>
+                    <label>
+                        <input name="username" type="text" placeholder="请输入用户名" class="form-control">
+                    </label>
+            </div>
+            <div class="text-center">
+                <label for="email">邮箱:</label>
+                <label>
+                    <input name="email" type="text" placeholder="请输入邮箱" class="form-control">
+                </label>
+
+            </div>
+            <div class="text-center">
+                <label for="password" >密码</label>
+                    <label>
+                        <input name="password" type="text" placeholder="请输入密码" class="form-control">
+                    </label>
+            </div>
+            <div class="text-right">
+            <input type="reset" value="重置" class="btn btn-primary">
+            <input type="submit" value="提交" class="btn btn-primary">
+            </div>
+        </form>
+      </td></tr></table><img src="../static/img/bb.jpg">
+    </div>
+</body>
+</html>

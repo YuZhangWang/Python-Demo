@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% load static %}
+    <link rel="stylesheet" href="{% static "css/bootstrap.css" %}">
+    <link rel="stylesheet" href="{% static "css/bootstrap-grid.css" %}">
+    <link rel="stylesheet" href="{% static "css/bootstrap-reboot.css" %}">
+    <link rel="stylesheet" href="{% static "js/bootstrap.bundle.js" %}">
+    <link rel="stylesheet" href="{% static "js/bootstrap.js" %}">
+    <title>首页</title>
+</head>
+<body class="row bg">
+<div class="container"><div class="row"><div class="col-md-12">
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <ul class="navbar-nav mr-auto">
+        <li class="text-primary">首页</li>
+        <li class="nav-item dropdown"><a class="nav-link" href="/index/">上传图片到人脸识别库</a></li>
+        <li class="nav-item dropdown"><a class="nav-link" href="/logout/">去登陆</a></li>
+        <li class="nav-item dropdown"><a class="nav-link" href="/register/">去注册</a></li>
+        <li class="nav-item dropdown"><a class="nav-link" href="/camera/">人脸登录</a></li>
+    </ul>
+</nav></div></div></div>
+</body>
+</html>

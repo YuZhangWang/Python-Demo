@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="../favicon.ico" rel="shortcut icon">
+    <meta charset="UTF-8">
+    {% load static %}
+    <link rel="stylesheet" href="{% static "css/bootstrap.css" %}">
+    <link rel="stylesheet" href="{% static "css/bootstrap-grid.css" %}">
+    <link rel="stylesheet" href="{% static "css/bootstrap-reboot.css" %}">
+    <link rel="stylesheet" href="{% static "js/bootstrap.bundle.js" %}">
+    <link rel="stylesheet" href="{% static "js/bootstrap.js" %}">
+    <title>上传照片</title>
+</head>
+<body class="row bg">
+        <form enctype="multipart/form-data" action="/uploadFile/" method="POST">
+            {% csrf_token %}
+            <input type="text" placeholder="姓名" name="username" class="form-control">
+            <input type="file" name="myfile" class="form-control">
+            <input type="submit" value="上传" class="btn btn-primary">
+        </form>
+
+</body>
+</html>

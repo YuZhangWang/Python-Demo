@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>登录成功</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static "css/bootstrap.css" %}">
+    <link rel="stylesheet" href="{% static "css/bootstrap-grid.css" %}">
+    <link rel="stylesheet" href="{% static "css/bootstrap-reboot.css" %}">
+    <link rel="stylesheet" href="{% static "js/bootstrap.bundle.js" %}">
+    <link rel="stylesheet" href="{% static "js/bootstrap.js" %}">
+</head>
+<body>
+<div class="h1 text-center text-primary">{{ name }},你已经成功登录！！！</div>
+<a href="/logout/" class="text-center"><input type="submit" value="注销账户" class="btn btn-primary"></a>
+<div>
+<table class="table table-hover table-bordered table-striped">
+    <tr><td class="text-center">你的图书推荐</td></tr>
+    {% for book in books %}
+        <tr><td>{{ book }}</td></tr>
+    {% endfor %}
+</table>
+</div>
+</body>
+</html>

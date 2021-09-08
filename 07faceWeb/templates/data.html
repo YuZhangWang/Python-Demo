@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% load static %}
+    <title>所有数据</title>
+</head>
+<body>
+<ul>
+    {% for data in datas %}
+        <li>姓名：{{ data.names  }}-图片信息：{{ data.picture }}</li>
+        <li><img src="{{ data.picture }}"></li>
+    {% endfor %}
+</ul>
+</body>
+</html>
