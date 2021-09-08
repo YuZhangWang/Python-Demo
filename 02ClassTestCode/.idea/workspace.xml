@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5964f44b-702c-4ad0-a8ed-ea0f0bdc88fa" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hMVNxZSIHl1oNuJwGrtWIS2c9w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.温度转换">
+    <configuration name="温度转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01HelloPycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/温度转换.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P29 1.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01HelloPycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P29 1.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P29 1.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01HelloPycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P29 1.2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P30 1.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01HelloPycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P30 1.7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="01HelloPycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/helloworld.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.温度转换" />
+        <item itemvalue="Python.P30 1.7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5964f44b-702c-4ad0-a8ed-ea0f0bdc88fa" name="默认更改列表" comment="" />
+      <created>1599820911205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599820911205</updated>
+      <workItem from="1600092125904" duration="67000" />
+      <workItem from="1600092209098" duration="2000" />
+      <workItem from="1600232398049" duration="7000" />
+      <workItem from="1600263894862" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1537" height="768" key="GridCell.Tab.0.bottom" timestamp="1600763579138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="268" key="GridCell.Tab.0.bottom/0.0.1280.920@0.0.1280.920" timestamp="1600160800450" />
+    <state width="1537" height="768" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600763579138" />
+    <state width="1537" height="768" key="GridCell.Tab.0.center" timestamp="1600763579138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="268" key="GridCell.Tab.0.center/0.0.1280.920@0.0.1280.920" timestamp="1600160800450" />
+    <state width="1537" height="768" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600763579138" />
+    <state width="1537" height="768" key="GridCell.Tab.0.left" timestamp="1600763579138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="268" key="GridCell.Tab.0.left/0.0.1280.920@0.0.1280.920" timestamp="1600160800450" />
+    <state width="1537" height="768" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600763579138" />
+    <state width="1537" height="768" key="GridCell.Tab.0.right" timestamp="1600763579138">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="268" key="GridCell.Tab.0.right/0.0.1280.920@0.0.1280.920" timestamp="1600160800450" />
+    <state width="1537" height="768" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600763579138" />
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1600417951011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="291" key="GridCell.Tab.1.bottom/0.0.1280.920@0.0.1280.920" timestamp="1599903569267" />
+    <state width="1493" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600417951011" />
+    <state width="1493" height="252" key="GridCell.Tab.1.center" timestamp="1600417951011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="291" key="GridCell.Tab.1.center/0.0.1280.920@0.0.1280.920" timestamp="1599903569267" />
+    <state width="1493" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600417951011" />
+    <state width="1493" height="252" key="GridCell.Tab.1.left" timestamp="1600417951011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="291" key="GridCell.Tab.1.left/0.0.1280.920@0.0.1280.920" timestamp="1599903569267" />
+    <state width="1493" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600417951011" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right" timestamp="1600417951011">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="291" key="GridCell.Tab.1.right/0.0.1280.920@0.0.1280.920" timestamp="1599903569267" />
+    <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600417951011" />
+    <state x="127" y="29" key="SettingsEditor" timestamp="1600418474667">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="106" y="32" key="SettingsEditor/0.0.1280.920@0.0.1280.920" timestamp="1599903788172" />
+    <state x="127" y="29" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600418474667" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1600762672513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1600762672513" />
+  </component>
+</project>
