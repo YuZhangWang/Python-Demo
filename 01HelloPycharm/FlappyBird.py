@@ -1,5 +1,7 @@
 import sys
 import random
+
+import pip
 import pygame
 
 # FPS
