@@ -35,7 +35,7 @@ class Bird(pygame.sprite.Sprite):
         self.time_pass = FPS / 1000
 
     # 更新小鸟的位置
-    def update(self):pip
+    def update(self):
         # 判断小鸟是上升还是下降
         if self.is_flapped:
             # 上升速度越来越小
